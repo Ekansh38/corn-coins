@@ -1,6 +1,6 @@
 # Corntopia  
 
-Corntopia was a fake country started by me and some friends. We starting tracking stuff on paper and moved to binders. It got complex, and long story short I made a website to manage things, it expanded to a marketplace, encrypted coatroom teachers couldn't monitor, cryptocurrency, later even gambling, and it spread across the middle school. At it's peak Corntopia had about 60 citizens (users).
+Corntopia was a fake country started by me and some friends. We starting tracking stuff on paper and moved to binders. It got complex, and long story short I made a website to manage things, it expanded to a marketplace, encrypted chat room teachers couldn't monitor, cryptocurrency, later even gambling, and it spread across the middle school. At it's peak Corntopia had about 60 citizens (users).
 
 **Sadly all images are gone from the data** (I will come to the reason at the end of the story)
 ---
@@ -40,7 +40,7 @@ Over time, Corntopia grew to 50+ active citizens in our school.
 
 - A place for buying and selling goods and services.  
 - Users could:  
-  - List items like toys, books, or services (e.g. homework help).  
+  - List items like toys, books, or services, like tutoring and stuff.  
   - Negotiate deals with buyers/sellers through the chat system.  
   - Complete transactions using Credits or CornCoins.  
 - Inspired by **eBay/Carousell**
@@ -91,10 +91,10 @@ It was fun while it lasted ig.
 
 ## Legacy  
 
-Although Corntopia was short-lived, it was one of my first large-scale projects:  
+Although it didn't last forever it was a fun project and it taught me a lot.
 - Taught me about **cryptocurrency mechanics**, **economics**, and **community-driven systems**.  
 - Helped me practice **Django development**, **databases**, **marketplace logic**, and **chat applications**.  
-- Showed how quickly small ideas can scale into a thriving ecosystem when people are engaged.
+- Showed how quickly small ideas can scale up quickly.
 
 ---
 
