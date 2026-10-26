@@ -1,18 +1,19 @@
 # Corntopia  
 
-Corntopia was a fake country started by me and some friends. We starting tracking stuff on paper and moved to binders. It got complex, and long story short I made a website to manage things, it expanded to a marketplace, encrypted chat room teachers couldn't monitor, cryptocurrency, later even gambling, and it spread across the middle school. At it's peak Corntopia had about 60 citizens (users).
+Corntopia was a fake country started by me and some friends. We starting tracking stuff on paper and moved to binders. It got complex, and long story short I made a website to manage things, it expanded to a marketplace, encrypted chat room teachers couldn't monitor, a fake cryptocurrency exchange, later even gambling, and it spread across the middle school. At it's peak Corntopia had about 60 citizens (users).
 
-**Sadly all images are gone from the data** (I will come to the reason at the end of the story)
+**Sadly all images are gone from the website data** (I will come to the reason at the end of the story)
 ---
 
 ## Background  
 
-Before the website, Corntopia had a hand full of citizens. We made stuff up, scribbled on paper and lied, a lot of lying took place. At one point somebody made up a fake cryptocurrency, made a fake graph and arbitrarily made up the price.
+Before the website, Corntopia had a hand full of citizens. We made stuff up, wrote things down on paper and lied, a lot of lying took place (this was in Grade 6). At one point somebody made up a fake cryptocurrency, made a fake graph and arbitrarily made up the price. This made me wonder, how is the actual price of a cryptocurrency decided. So I asked my dad, the perfect person for this question (he literally used to run a crypto exchange), and he explained it to me. 
 
-To fix this, I built a website to:  
+"What if I made a website to manage all of this", I thought.
+
 - Manage everyone’s finances.  
 - Send and receive money.
-- Simulate a REAL cryptocurrency.
+- Simulate a REAL cryptocurrency (an exchange).
 - Create a marketplace for buying and selling goods and services to earn money.
 
 Over time, Corntopia grew to 50+ active citizens in our school.  
@@ -79,13 +80,13 @@ People in the middle school slowly started finding out about Corntopia. Word of 
 
 ## Shutdown  
 
-One day, while “working” on my English essay (actually coding Corntopia), my teacher called me into class. Two big student snitches had told the teacher everything about Corntopia.  
+One day, while “working” on my English essay (actually coding Corntopia), my teacher called me into class. Two big snitches had told the teacher everything about Corntopia.  
 
-I was told to shut down everything down immediately before things got worse. He brought up words like, fraud, scam and illegal. In a panic (I was very panicked), I deleted the server and database and hide all the evidence.
+I was told to shut down everything down immediately before things got worse. He brought up words like, fraud, scam and illegal, "how do you think the government would react to your 'fake' crypto" he said. In a panic (I was very panicked), I deleted the server and database and hide all the evidence.
 
-Luckily, months later, I managed to recover most of the data (except for images, which I’m still bummed about).  
+Luckily, months later, I managed to recover most of the data (except for images on the site, the ones people posted of goods, profile pictures and such, which I’m still bummed about).  
 
-It was fun while it lasted ig.
+It was fun while it lasted.
 
 ---
 
